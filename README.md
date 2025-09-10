@@ -3,7 +3,7 @@
 # Pixel Visualizer
 A pixel visualizer I made to waste time.
 
-`R` to restart the thingy.
+`R` to restart the thingy.\
 Mouse scroll / side buttons to change pixel size.
 
 That's about it.
